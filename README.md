@@ -1,2 +1,2 @@
 # hello
-first proram
+ hi this is my first program
