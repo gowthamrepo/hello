@@ -12,3 +12,4 @@ public class HelloWorld {
 	   }
 	System.out.println("my first program);
 }
+Sytem.out.println("second program");
